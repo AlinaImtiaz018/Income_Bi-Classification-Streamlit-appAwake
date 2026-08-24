@@ -10,7 +10,7 @@ import os
 
 # List of Streamlit apps to wake up
 STREAMLIT_URLS = [
-    os.environ.get("STREAMLIT_APP_URL", "https://income-classification-ml-dashboard.streamlit.app/"),
+    os.environ.get("STREAMLIT_APP_URL", "https://income-classification-ml-dashboard.streamlit.app/", "https://weapon-detection-app.streamlit.app/"),
     #"",
 
 ]
