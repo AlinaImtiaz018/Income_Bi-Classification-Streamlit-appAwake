@@ -1,4 +1,4 @@
-# ☕ Coffee – Wake Streamlit App with GitHub Actions + Selenium
+# Wake Income Classification Streamlit App with GitHub Actions + Selenium
 
 This repository contains a simple automation setup that uses **GitHub Actions** and **Selenium** to keep a [Streamlit Community Cloud](https://streamlit.io/cloud) app awake.
 
